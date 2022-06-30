@@ -1,0 +1,4 @@
+C:\Users\EliteBook\Desktop\RESTApiWithAzureFunction\RESTApiWithAzureFunction\obj\Release\netcoreapp3.0\RESTApiWithAzureFunction.csprojAssemblyReference.cache
+C:\Users\EliteBook\Desktop\RESTApiWithAzureFunction\RESTApiWithAzureFunction\obj\Release\netcoreapp3.0\RESTApiWithAzureFunction.AssemblyInfoInputs.cache
+C:\Users\EliteBook\Desktop\RESTApiWithAzureFunction\RESTApiWithAzureFunction\obj\Release\netcoreapp3.0\RESTApiWithAzureFunction.AssemblyInfo.cs
+C:\Users\EliteBook\Desktop\RESTApiWithAzureFunction\RESTApiWithAzureFunction\obj\Release\netcoreapp3.0\RESTApiWithAzureFunction.csproj.CoreCompileInputs.cache

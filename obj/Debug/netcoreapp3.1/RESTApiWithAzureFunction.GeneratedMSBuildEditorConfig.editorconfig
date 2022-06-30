@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RESTApiWithAzureFunction
+build_property.ProjectDir = C:\Users\tirao\Source\Repos\Azure Function\RESTApiWithAzureFunction\
